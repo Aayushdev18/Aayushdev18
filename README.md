@@ -21,10 +21,10 @@
 ---
 
 ### 🌟 Featured Projects
-- 🕹️ **[2048 Game](https://github.com/Aayushdev18/2048)** – Classic 2048 built with JavaScript.  
-- 🍽️ **[Restaurant Website](https://github.com/Aayushdev18/Restaurant-)** – Responsive restaurant site using HTML, CSS, and JS.  
-- 🎧 **Spotify Clone** – Frontend music player UI with React.  
-- 🧮 **BMI Calculator** – Simple calculator with real-time results.
+- 🍽️ **[Restaurant Website](https://github.com/Aayushdev18/Restaurant-)** – Responsive restaurant website using HTML, CSS, and JavaScript.  
+- 🧑‍⚕️ **[Doctor Appointment Booking Website](https://github.com/Aayushdev18/Doctor-)** – Book and manage doctor appointments online.  
+- 🧮 **[BMI Calculator](https://github.com/Aayushdev18/BMI-Calculator)** – Simple BMI calculator with real-time results.
+
 
 *(More projects on my repos 👇)*  
 
